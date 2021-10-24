@@ -1,6 +1,7 @@
 # For local db construction and enrichment analysis
-# updated 2021-10-20;
+# updated 2021-10-24;
 # supnovel@sicau.edu.cn
+# the json section canbe adjusted to accommodate for other rel.
 
 # setwd("E:/4-RNA-seq/fra_ann_enrich")
 
